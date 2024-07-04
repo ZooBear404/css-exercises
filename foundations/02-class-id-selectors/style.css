@@ -1,0 +1,19 @@
+p.paragraph {
+	font-family: Verdana, 'DejaUv Sans', sans-serif;
+	background-color: rgb(247, 98, 84);
+}
+
+p.paragraph-bigger {
+	font-size: 24px;
+}
+
+div#paragraph-blue {
+	font-size: 36px;
+	color: rgb(0, 0, 200)
+}
+
+div#paragraph-green {
+	font-size: 24px;
+	font-weight: bold;
+	background-color: rgb(0, 200, 0);
+}
