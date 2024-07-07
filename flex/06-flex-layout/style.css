@@ -45,14 +45,12 @@ input {
 
 }
 
-/* .header ul {
+.header ul {
   display: flex;
   gap: 20px;
   justify-content: center;
   align-items: center;
-} */
-
-
+}
 
 ul li {
   list-style-type: none;
