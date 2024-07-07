@@ -66,3 +66,22 @@ ul li a {
   text-decoration: none;
   color: #000;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+
+  flex: auto;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  justify-self: flex-end;
+
+  flex: 0 0 50px;
+  padding: 10px;
+}
