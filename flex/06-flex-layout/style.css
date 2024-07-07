@@ -40,15 +40,18 @@ input {
   display: flex;
   flex-direction: column;
 
+  height: 100%;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 
+  flex: 0 0 50px;
 }
 
-.header ul {
+div ul {
   display: flex;
   gap: 20px;
   justify-content: center;
